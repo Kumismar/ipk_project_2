@@ -11,5 +11,7 @@ Also, I've read the assignment poorly; this server only support two-operand quer
 
 However, it still does something; it processes two-operand queries almost perfectly (wrote quite good tests imo) and processes both TCP and UDP queries when you send them one by one.
 
+You can read the protocol [here](https://git.fit.vutbr.cz/NESFIT/IPK-Projekty/src/branch/master/Project%201/Protocol.md).
+
 ## For FIT students that came for an inspiration
 It's not anything you'd like to take inspiration from. However, the simplified functionality (described above) is implemented quite well.
